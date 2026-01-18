@@ -30,3 +30,8 @@ Compile the shell using GCC:
 #Bash
 gcc shell.c -o mini_shell
 
+Usage
+
+Run the shell with an input command file and an output file:
+
+./mini_shell commands.txt output.txt
